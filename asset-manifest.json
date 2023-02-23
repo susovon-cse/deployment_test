@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/chairse-react/static/css/main.073c9b0a.css",
+    "main.js": "/chairse-react/static/js/main.1410296c.js",
+    "static/js/787.08396db8.chunk.js": "/chairse-react/static/js/787.08396db8.chunk.js",
+    "index.html": "/chairse-react/index.html",
+    "main.073c9b0a.css.map": "/chairse-react/static/css/main.073c9b0a.css.map",
+    "main.1410296c.js.map": "/chairse-react/static/js/main.1410296c.js.map",
+    "787.08396db8.chunk.js.map": "/chairse-react/static/js/787.08396db8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.1410296c.js"
+  ]
+}
